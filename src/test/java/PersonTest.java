@@ -11,14 +11,15 @@ public class PersonTest {
      //TODO create an instance of Person using 2 argument constructor
 
         Person p1=new Person( "Anusha", "Ramasahayam");
-       // Person p2=new Person("Vikram","Ramasahayam");
+        Person p2=new Person("Vikram","Ramasahayam");
 
 
      //TODO using Person get Methods assert firstName and lastName is working as expected
+        String p1ActualFirstname =p1.getfirstNmae();
 
-        assertEquals("Anusha",p1.getfirstNmae());
+        assertEquals("Anusha",p1ActualFirstname);
         assertEquals("Ramasahayam",p1.getLastname());
-       // assertEquals("Vikram",p2.getfirstNmae());
+        assertEquals("Vikram",p2.getfirstNmae());
 
 
     }

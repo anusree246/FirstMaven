@@ -1,7 +1,4 @@
-
-
-
-  public class AdditionExample {
+public class AdditionExample {
 
         public static void main(String[] args) {
             System.out.println("Result:"+addition(7,8));
