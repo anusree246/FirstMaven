@@ -7,7 +7,11 @@ public class MultiflicationTables {
         for (int index = 0; index < tables.length; index++) {
             String value = tables[index];
 
+            System.out.println("******************************************");
+
+
             System.out.println(value);
+
 
             //System.out.println(value);
             int number = Integer.parseInt(value);
