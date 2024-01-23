@@ -1,4 +1,4 @@
-package HeadFirstJava.JavaPractice;
+package JavaPractice;
 
 public class EvenorOdd {
     public static void main(String[] args) {

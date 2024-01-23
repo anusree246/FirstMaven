@@ -1,4 +1,4 @@
-package JavaPractice;
+package HeadFirstJava;
 
 public class Person {
   // NOTE : Static method should use static variable

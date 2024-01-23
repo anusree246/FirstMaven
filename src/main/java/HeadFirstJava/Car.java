@@ -1,3 +1,5 @@
+package HeadFirstJava;
+
 import java.util.Objects;
 
 public class Car {
@@ -13,7 +15,7 @@ public Car(String carModel, String carMake){
 
     @Override
     public String toString() {
-        return "Car{" +
+        return "HeadFirstJava.Car{" +
                 "model='" + model + '\'' +
                 ", make='" + make + '\'' +
                 '}';

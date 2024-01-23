@@ -1,4 +1,4 @@
-package JavaPractice;
+package HeadFirstJava;
 
 import java.util.HashSet;
 import java.util.LinkedHashSet;

@@ -1,4 +1,4 @@
-package JavaPractice;
+package HeadFirstJava;
 class ExceptionClass{
 
     int[] array={1,2,3,4};

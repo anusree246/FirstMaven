@@ -1,3 +1,5 @@
+package HeadFirstJava;
+
 public class MathCalculations {
     public   int additionMethod(int a, int b){
             return a+b;

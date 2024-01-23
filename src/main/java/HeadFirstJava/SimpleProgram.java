@@ -1,4 +1,4 @@
-package JavaPractice;
+package HeadFirstJava;
 
 public class SimpleProgram {
 

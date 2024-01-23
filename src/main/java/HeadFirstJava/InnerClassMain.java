@@ -1,4 +1,4 @@
-package JavaPractice;
+package HeadFirstJava;
 
 class Outer{
     private int a=100;
