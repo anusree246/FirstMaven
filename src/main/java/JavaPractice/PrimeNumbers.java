@@ -6,7 +6,7 @@ public class PrimeNumbers {
 
         int n=5;
         int i=2;
-        while(i<=5){
+        while(i<=n){
             if(n%i==0){
                 if(i==n){
                     System.out.println("prime number");
